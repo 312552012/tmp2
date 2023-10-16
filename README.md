@@ -1,3 +1,3 @@
-# Stock-Prediction-Using-Machine-Learning-Based-on-Financial-Ratios
-
-DCS LAB 高承翰學長 之碩士論文，由林耕霈代為上傳
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fe4a34afb524563cc4bfaefeda34a153c1827887aaed2f937db45ddca966280
+size 136
